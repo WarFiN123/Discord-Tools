@@ -1,5 +1,4 @@
-# Discord-Tools
+# CNUKER (Discord Bot Server Nuker)
 
 ## Credits
 - C-Nuker - Unknown
-- koalahook = [infamouskoala](https://github.com/infamouskoala/koalahook)
